@@ -16,9 +16,9 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **shantilalpatliya18@gmail.com**
-- 
+
 - ⚡ Fun fact I think **I am kind hearted and creative person**
-- 
+ 
 - 👯 Love to connect with **new people**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,12 +44,12 @@
 </p>
   
  
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" /></p>  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spsanchore13&show_icons=true&locale=en&layout=compact" alt="spsanchore13" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" /></p>
 
 
