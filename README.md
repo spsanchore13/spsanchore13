@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantilal Patliya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="400px"/>
+<img src="https://wallpaperaccess.com/full/3949082.png" height="300px" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsanchore13&label=Profile%20views&color=0e75b6&style=flat" alt="spsanchore13" /> </p>
 
