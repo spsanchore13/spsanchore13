@@ -47,8 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  &nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  &nbsp;
-<img src="	https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> &nbsp;
-<img height="10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNsDlTZmPIw0q5FoxLTidKAthcy68k46wq7i1wzsa&s"/> &nbsp;
+
 
 
 
