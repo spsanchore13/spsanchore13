@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shantilal Patliya</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsanchore13&label=Profile%20views&color=0e75b6&style=flat" alt="spsanchore13" /> </p>
 
-<img src="https://wallpaperaccess.com/full/3949082.png" height="400px" width="100%"/>
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47opy2f9m3cmxnisahxgxdzsrup5ukj4ki8coywc6y&rid=giphy.gif&ct=g" height="400px" width="100%"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
