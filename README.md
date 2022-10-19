@@ -21,9 +21,8 @@
 
 <h2 align="left">Connect With Me👋</h2>
 
-<
-<a href="https://www.linkedin.com/in/spsanchore13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://twitter.com/spsanchore_13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/spsanchore13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://twitter.com/spsanchore_13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <h2 align="left">Skilled In</h2>
 
