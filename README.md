@@ -24,7 +24,8 @@
 <a href="https://linkedin.com/in/spsanchorlefte13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spsanchore13" height="30" width="40" /></a>
 </p>
 
-###Frot-End Skills
+### Frot-End Skills
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  &nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>  &nbsp;
