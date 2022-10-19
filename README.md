@@ -19,12 +19,12 @@
  
 - 👯 Love to connect with **new people**
 
-<h2 align="center">Connect With Me👋</h2>
+<h2 align="left">Connect With Me👋</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/spsanchorlefte13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spsanchore13" height="30" width="40" /></a>
 </p>
-<h2 align="center">Skilled In</h2>
+<h2 align="left">Skilled In</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  &nbsp;
