@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantilal Patliya</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 
-# Brief about me...!!!
+# About me...!!
 I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
