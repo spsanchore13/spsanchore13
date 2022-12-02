@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shantilal Patliya</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From India</h3>
 
+# Brief about me...!!!
+I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsanchore13&label=Profile%20views&color=0e75b6&style=flat" alt="spsanchore13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
