@@ -1,4 +1,4 @@
-# <span style="background-image: linear-gradient(45deg, #00a8ff, #007bff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 20px;">Shantilal Patliya</span>
+# <h2>Shantilal Patliya</span>
 
 
 <span style="font-size:22px;">👋 Namaste! I'm Shantilal Patliya, a Passionate Full Stack MERN Developer from India.</span>
