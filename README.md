@@ -18,7 +18,7 @@ I love connecting with fellow developers, tech enthusiasts, and industry profess
 You can reach me via email at shantilalpatliya18@gmail.com. I'm excited to hear from you and explore potential opportunities, whether it's for collaboration, job prospects, or connecting with like-minded individuals.
 
 ## 🌟 Explore My Work
-To see some of my projects and delve into my coding journey, visit my [GitHub page](https://spsanchore13.github.io/shantilal/). Your feedback and suggestions are highly appreciated, so please don't hesitate to share your thoughts.
+To see some of my projects and delve into my coding journey, visit my [Portfolio](https://spsanchore13.github.io/shantilal/). Your feedback and suggestions are highly appreciated, so please don't hesitate to share your thoughts.
 
 👯 Let's Grow Together
 I firmly believe that growth happens when we come together as a community. I'm eager to connect with new people, share knowledge, exchange ideas, and contribute to the vibrant developer ecosystem. Let's collaborate, inspire each other, and make a difference in the world of web development!
