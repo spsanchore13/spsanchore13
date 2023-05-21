@@ -1,4 +1,4 @@
-<h2>Shantilal Patliya</h2>
+<spane style="font-size:24px">Shantilal Patliya</span>
 
 
 <span style="font-size:22px;">👋 Namaste! I'm Shantilal Patliya, a Passionate Full Stack MERN Developer from India.</span>
