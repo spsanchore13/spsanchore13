@@ -59,9 +59,9 @@
  <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spsanchore13&show_icons=true&locale=en&layout=compact" alt="spsanchore13" /></div>
 </div>
 
-<div style="display:flex; gap:10px">
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /></div>
-<div align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" /> </div>  
+<div style="display:flex;gap:10px;">
+<div> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" /> </div>  
 </div>
 
 
