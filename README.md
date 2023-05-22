@@ -25,10 +25,6 @@
 <span style="font-size:18px;">I firmly believe that growth happens when we come together as a community. I'm eager to connect with new people, share knowledge, exchange ideas, and contribute to the vibrant developer ecosystem. Let's collaborate, inspire each other, and make a difference in the world of web development!</span>
 
 
-
-<a href="https://www.linkedin.com/in/spsanchore13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://twitter.com/spsanchore_13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
 <h2 align="left">Skilled In</h2>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; 
