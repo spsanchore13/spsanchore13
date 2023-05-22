@@ -7,7 +7,7 @@
 <p>I'm dedicated, determined, and fueled by my passion for web development. My journey as a developer has been an exciting one, and I specialize in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on challenges and believe in continuous learning to enhance both my professional and interpersonal skills. With every project, I aim to contribute to the growth and success of organizations while making the most of my abilities and knowledge.</p>
 
 ## <span style="font-size:20px;">🌱 Learning</span>
-<span style="font-size:18px;">Currently, I'm on an incredible learning path, expanding my expertise in full-stack web development at Masai School. I'm immersing myself in cutting-edge technologies and staying up-to-date with the latest industry trends. Through this, I strive to provide innovative solutions and build remarkable user experiences.</span>
+<span style="font-size:18px;">Currently, I'm on an incredible learning path, expanding my expertise in full-stack web development and app development. I'm immersing myself in cutting-edge technologies and staying up-to-date with the latest industry trends. Through this, I strive to provide innovative solutions and build remarkable user experiences.</span>
 
 ## <span style="font-size:20px;">💡 Fun Fact</span>
 <span style="font-size:18px;">Did you know that I believe in the power of kindness and creativity? I see myself as a kind-hearted individual with a knack for thinking outside the box. I enjoy bringing unique and imaginative perspectives to my projects, infusing them with a touch of creativity.</span>
