@@ -56,9 +56,9 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" />
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" />
+<img  src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" />
 
 
 
