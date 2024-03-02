@@ -1,7 +1,6 @@
-# <span style="font-size:26px;">Shantilal Patliya</span>
+<h2 align="left">Hi 👋! My name is Shantilal and I'm a Full Stack Developer from India.</h1>
 
 
-<span style="font-size:22px;">👋 Namaste! I'm Shantilal Patliya, A Full Stack Software Engineer from India.</span>
 
 ## <span style="font-size:20px;">💻 About Me</span>
 <p>I'm dedicated, determined, and fueled by my passion for web development. My journey as a developer has been an exciting one, and I specialize in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on challenges and believe in continuous learning to enhance both my professional and interpersonal skills. With every project, I aim to contribute to the growth and success of organizations while making the most of my abilities and knowledge.</p>
@@ -59,12 +58,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" />
 </br>
 <img  src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" />
-
-
-
-
-
-
 
 
 
