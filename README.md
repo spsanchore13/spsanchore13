@@ -63,3 +63,10 @@
 
 <img src="https://raw.githubusercontent.com/spsanchore13/spsanchore13/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/spsanchore13/count.svg?"  />
+</div>
+
+###
