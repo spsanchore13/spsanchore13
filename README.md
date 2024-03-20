@@ -20,10 +20,14 @@
 <p>Experienced Full Stack Developer proficient in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and SQL. Skilled in testing with Cypress and Jest. Strong problem-solving abilities, dedicated to staying updated with industry trends. Passionate about crafting innovative web solutions.</p>
 
 ##  📚  Currently Learning
-<span style="font-size:18px;">Currently, I'm on an incredible learning path, expanding my expertise in full-stack web development and app development. I'm immersing myself in cutting-edge technologies and staying up-to-date with the latest industry trends. Through this, I strive to provide innovative solutions and build remarkable user experiences.</span>
+
+- Next.js
+- Docker
+- GraphQL
+
 
 ## 📲  Let's Connect
-<span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging discussions and new collaborations.</span>
+<span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging in discussions and new collaborations.</span>
 
 <a href="https://discord.com/users/934822509822476388">
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Link 1">
