@@ -5,8 +5,7 @@
 
 
 
-  <img width="60%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> &nbsp;
-  <img width="40%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+<img width="69%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/> &nbsp;<img width="30%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
 
 ###
@@ -91,8 +90,8 @@
 
 ## 📈 GitHub Stats
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /> &nbsp;
-<img  src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=spsanchore13&" alt="spsanchore13" /> &nbsp;
+<img width="45%"  src="https://github-readme-stats.vercel.app/api?username=spsanchore13&show_icons=true&locale=en" alt="spsanchore13" />
 
 
 <br/>
