@@ -16,7 +16,7 @@
 
 ###
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 <p>Experienced Full Stack Developer proficient in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and SQL. Skilled in testing with Cypress and Jest. Strong problem-solving abilities, dedicated to staying updated with industry trends. Passionate about crafting innovative web solutions.</p>
 
 ##  📚  Currently Learning
