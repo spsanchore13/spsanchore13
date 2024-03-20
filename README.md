@@ -33,7 +33,7 @@
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Link 1">
 </a>
 
-<a href="https://wa.me/9784102014">
+<a href="https://wa.me/+919784102014">
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Link 2">
 </a>
 
