@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Shantilal and I'm a Full Stack Developer from India.</h1>
+<div style="display:flex; align-items:center;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="50" height="50" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B!+My+name+is+Shantilal+;Full+Stack+Developer+(MERN)" alt="Typing SVG" /></a>
+</div>
+
+
 
 
 
